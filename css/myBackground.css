@@ -5,7 +5,7 @@ body {
     font-family: "Exo", sans-serif;
     color: #fff;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
+    background-size: 650% 650%;
     animation: gradientBG 8s ease infinite;
 }
 
@@ -67,4 +67,5 @@ a:hover {
 
 video {
     margin: 5px 5px 5px 5px;
+    border: 3px solid black;
 }
