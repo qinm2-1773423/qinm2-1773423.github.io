@@ -40,7 +40,7 @@ h2 {
     margin: 5px 15% 5px 15%;
 }
 
-h3 {
+.first, h3 {
     font-family: 'Ranga', cursive;
     color: #eee;
     font-weight: 200;
@@ -50,6 +50,14 @@ h3 {
 
 h4 {
     font-family: 'Kalam', cursive;
+    color:#eee;
+    font-weight:300;
+    font-size: 1.2em;
+    margin: 0px 15% 0px 15%;
+}
+
+.second {
+    font-family: 'Vibes', cursive;
     color:#eee;
     font-weight:300;
     font-size: 1.2em;
